@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/R.b664871935fd60921fa84514cfd9db06?rik=CObS%2f0sSWkJ36A&pid=ImgRaw&r=0)]
+
 <h1 align="center">Hi 👋, I'm Pachomius Kweku Lawson</h1>
 <h3 align="center">A passionate Full stack developer from Ghana</h3>
 <img align ="right" alt ="Coding" width ="400" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif">
